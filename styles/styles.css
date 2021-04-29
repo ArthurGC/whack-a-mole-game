@@ -27,7 +27,7 @@ h2 {
 }
 
 body {
-  background-image: url("/img/Light Into The Cavern Free Vector.jpg");
+  background-image: url("https://raw.githubusercontent.com/ArthurGC/whack-a-mole-game/main/img/Light%20Into%20The%20Cavern%20Free%20Vector.jpg");
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
@@ -53,7 +53,7 @@ body {
 }
 
 .mole {
-  background-image: url("/img/mole.png");
+  background-image: url("https://raw.githubusercontent.com/ArthurGC/whack-a-mole-game/main/img/mole.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
